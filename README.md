@@ -1,7 +1,15 @@
 # Feature-Driven Design (FDD)
 
+---
+
+# ⚠️ REPOSITORY MOVED
+This repository has moved to **[cyberfabric/FDD](https://github.com/cyberfabric/FDD)**.
+Please update your bookmarks and git remotes:
+```bash
+git remote set-url origin git@github.com:cyberfabric/FDD.git
+
 **Version**: 1.0  
-**Status**: Active  
+**Status**: Moved to CyberFabric  
 **Audience**: Development teams, technical leads, architects
 
 Feature-Driven Design is a **universal methodology** for building software systems with clear traceability from requirements to implementation.
