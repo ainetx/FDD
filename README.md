@@ -3,6 +3,7 @@ This repository has moved to **[cyberfabric/FDD](https://github.com/cyberfabric/
 Please update your bookmarks and git remotes:
 ```bash
 git remote set-url origin git@github.com:cyberfabric/FDD.git
+```
 
 **Version**: 1.0  
 **Status**: Moved to CyberFabric  
